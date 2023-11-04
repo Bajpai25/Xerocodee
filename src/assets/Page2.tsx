@@ -55,7 +55,7 @@ function Page2() {
     <span className="text-blue-700 md:text-[44px] text-2xl  font-semibold font-[Poppins]">scaling teams</span></div>
     </div>
     <div className='flex flex-row flex-wrap justify-center md:m-0 m-6 gap-12 mt-16 mb-16'>
-     <div className='flex flex-col gap-6'>
+     <div className='flex flex-col gap-6 md:mt-0 mt-6'>
      <div className='flex flex-row gap-3 shadow p-3 rounded-lg'>
      <div className="w-[72px] h-[72px] relative bg-white rounded-2xl shadow">
         <img  src="infrastructure.png" alt="infrastructure" className='absolute top-[20px] left-[16px]'></img>
